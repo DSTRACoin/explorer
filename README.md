@@ -1,5 +1,12 @@
 This explorer is forked from Luke's Explorer (https://github.com/iquidus/explorer)  with a bit of flavoring from https://github.com/masterhash-us/Explorer, which seems to be gone now. Cleaning up README.md. History can be found in the first upload commit.
 
+Run with dstra.conf in your data directory containing:
+rpcuser=USER
+rpcpassword=PASSWORD
+rpcport=5270
+listen=1
+server=1
+
 Iquidus Explorer - 1.6.1
 ================
 
